@@ -1,0 +1,10 @@
+{
+  "bucketName": "terraform-mod-dashboard.soltius.io",
+  "key": "temp_terraform_modules.json",
+  "inclusions" : [
+    "terraform-mod", "solt-app-chef-server", "solt-app-ses-forwarder"
+  ],
+  "exclusions" : [
+    "terraform-mod-awsconfig"
+  ]
+}

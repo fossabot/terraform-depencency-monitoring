@@ -1,0 +1,38 @@
+{
+  "Records": [
+    {
+      "eventVersion": "2.0",
+      "eventSource": "aws:s3",
+      "awsRegion": "ap-southeast-2",
+      "eventTime": "2018-04-29T08:42:50.734Z",
+      "eventName": "ObjectCreated:Put",
+      "userIdentity": {
+        "principalId": "AWS:AROAJ6VLD75EH3ANLVSSC:soltius-gather-github-repos-function"
+      },
+      "requestParameters": {
+        "sourceIPAddress": "13.211.203.0"
+      },
+      "responseElements": {
+        "x-amz-request-id": "77C4A5A6F9D4914E",
+        "x-amz-id-2": "xzyIoQMYgfhRBrwYP1ybD+GNi3uxhazm79Z1HYEzba6aeaVotNHgLnKsFOXIbUdoseTKV76QkWw="
+      },
+      "s3": {
+        "s3SchemaVersion": "1.0",
+        "configurationId": "tf-s3-lambda-20180429084024846300000001",
+        "bucket": {
+          "name": "terraform-depedencymonitoring-20180426034210540800000001",
+          "ownerIdentity": {
+            "principalId": "ANUQJMPHKVC07"
+          },
+          "arn": "arn:aws:s3:::terraform-depedencymonitoring-20180426034210540800000001"
+        },
+        "object": {
+          "key": "terraform/project_repos/info.json",
+          "size": 7501,
+          "eTag": "6dc3f48a556b49860585da200f5b944f",
+          "sequencer": "005AE5858AAA39BAA0"
+        }
+      }
+    }
+  ]
+}

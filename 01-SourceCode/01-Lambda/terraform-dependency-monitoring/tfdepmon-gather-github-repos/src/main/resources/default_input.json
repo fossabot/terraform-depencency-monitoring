@@ -1,0 +1,11 @@
+{
+  "bucketName": "terraform-depedencymonitoring-20180426034210540800000001",
+  "key": "terraform/repos/info.json",
+  "inclusions" : [ ],
+  "exclusions" : [
+    "chef-", "terraform-mod", "fon-cdv-com", "pgb-sce",
+    "cordova", "pbg-", "doc-", "ps_scripts",
+    "javascript", "Bluetooth" , "scaffold-terraform-env",
+    "test-", "cdv-"
+  ]
+}

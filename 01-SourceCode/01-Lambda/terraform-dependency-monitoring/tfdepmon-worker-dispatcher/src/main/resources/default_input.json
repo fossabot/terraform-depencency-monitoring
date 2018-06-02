@@ -1,0 +1,6 @@
+{
+  "sqsQueueName": "solt-terraform-depmon-repos-queue",
+  "workerReservedConcurrentExecutions": "50",
+  "lambdaWorkerFunctionName" : "soltius-tfdepmon-worker-function",
+  "s3BucketName": "terraform-dependencymonitoring-20180508105243729400000001"
+}
