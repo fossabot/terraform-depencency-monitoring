@@ -1,4 +1,4 @@
 language: java
 jdk:
   - oraclejdk8
-script: 01-Sourcecode/build.sh
+script: 01-SourceCode/build.sh
