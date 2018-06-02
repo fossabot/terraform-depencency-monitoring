@@ -1,0 +1,7 @@
+*DS_Store*
+.idea/
+.terraform/
+terraform.tfplan
+terraform.tfstate*
+terraform-credentials.*.tfvars
+target/
