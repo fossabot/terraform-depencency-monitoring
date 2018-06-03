@@ -1,0 +1,6 @@
+{
+  "sqsQueueName": "${sqs_queue_name}",
+  "workerReservedConcurrentExecutions": ${worker_reserved_concurrent_executions},
+  "lambdaWorkerFunctionName" : "${lambda_worker_function_name}",
+  "s3BucketName" : "${s3_bucket_name}"
+}

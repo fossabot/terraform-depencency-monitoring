@@ -1,0 +1,6 @@
+{
+  "bucketName": "${s3_bucket}",
+  "key": "${s3_key}",
+  "inclusions" : ${inclusions} ,
+  "exclusions" : ${exclusions}
+}
