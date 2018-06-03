@@ -56,7 +56,7 @@
         <aws.lambdajavacore.version>1.2.0</aws.lambdajavacore.version>
         <apache.httpclient.version>4.5.5</apache.httpclient.version>
         <eclipse.jgit.version>4.11.0.201803080745-r</eclipse.jgit.version>
-        <kohsuke.githubapi.version>1.89</kohsuke.githubapi.version>
+        <kohsuke.githubapi.version>1.93</kohsuke.githubapi.version>
         <project.lombok.version>1.16.20</project.lombok.version>
     </properties>
 
