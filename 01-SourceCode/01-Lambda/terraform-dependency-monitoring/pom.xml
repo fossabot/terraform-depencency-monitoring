@@ -52,7 +52,7 @@
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <aws.sdk.version>1.11.344</aws.sdk.version>
+        <aws.sdk.version>1.11.345</aws.sdk.version>
         <aws.lambdajavacore.version>1.2.0</aws.lambdajavacore.version>
         <apache.httpclient.version>4.5.5</apache.httpclient.version>
         <eclipse.jgit.version>4.11.0.201803080745-r</eclipse.jgit.version>
