@@ -9,7 +9,7 @@ import lombok.ToString;
  * Class that represents a Github repository that potentially
  * utilises terraform modules
  *
- * @author  <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  *
  */
 @NoArgsConstructor

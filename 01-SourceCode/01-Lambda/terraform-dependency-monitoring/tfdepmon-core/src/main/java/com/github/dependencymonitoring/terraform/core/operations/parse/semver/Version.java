@@ -16,7 +16,7 @@ import java.io.IOException;
 /**
  * Class the represents the semantic version in the /VERSION file
  *
- * @author <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  */
 @JsonSerialize(using = VersionJSONCustomSerializer.class)
 @NoArgsConstructor

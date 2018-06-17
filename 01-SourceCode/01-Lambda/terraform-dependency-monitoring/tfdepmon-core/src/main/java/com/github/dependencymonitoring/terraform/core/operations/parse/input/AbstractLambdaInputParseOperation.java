@@ -11,7 +11,7 @@ import java.util.logging.Logger;
  * Class that represents the abstraction layer for parsing AWS Lambda payloads
  *
  * @param <ReturnType> - Return type that will be returned.
- * @author <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  */
 abstract class AbstractLambdaInputParseOperation<ReturnType> {
     /**

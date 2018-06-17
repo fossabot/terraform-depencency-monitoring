@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * Class the represents the Lambda payload sent by the Amazon CloudWatch Events rules
  *
- * @author  <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  */
 @NoArgsConstructor
 @ToString

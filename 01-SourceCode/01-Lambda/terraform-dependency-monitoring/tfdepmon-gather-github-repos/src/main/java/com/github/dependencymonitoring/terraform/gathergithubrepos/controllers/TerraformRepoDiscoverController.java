@@ -10,7 +10,7 @@ import org.kohsuke.github.GHRepository;
 import java.util.List;
 
 /**
- * @author <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  */
 @AllArgsConstructor(access = AccessLevel.PACKAGE)
 class TerraformRepoDiscoverController extends TypedBaseController<List<GHRepository>> {

@@ -12,7 +12,7 @@ import static com.github.dependencymonitoring.terraform.gitcore.utils.IGitCoreCo
 
 
 /**
- * @author <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  */
 public class GitHubListProjectsOperation extends AbstractGitHubOperation<List<GHRepository>> {
 

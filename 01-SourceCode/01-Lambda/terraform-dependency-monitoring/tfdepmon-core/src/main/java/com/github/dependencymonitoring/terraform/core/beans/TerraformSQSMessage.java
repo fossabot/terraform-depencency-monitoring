@@ -5,7 +5,7 @@ import lombok.*;
 /**
  * Class that represents the message sent to Amazon Simple Queue Service
  *
- * @author  <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  *
  */
 @NoArgsConstructor

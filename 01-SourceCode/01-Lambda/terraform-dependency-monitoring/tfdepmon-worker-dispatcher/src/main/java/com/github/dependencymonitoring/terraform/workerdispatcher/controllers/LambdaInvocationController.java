@@ -50,7 +50,7 @@ class LambdaInvocationController extends BaseController {
 
             }
         } catch (IOException e) {
-            throw this.wrapException("Error when invokating a lambda function", e);
+            throw this.wrapException("Error when invoking a lambda function", e);
         }
 
     }

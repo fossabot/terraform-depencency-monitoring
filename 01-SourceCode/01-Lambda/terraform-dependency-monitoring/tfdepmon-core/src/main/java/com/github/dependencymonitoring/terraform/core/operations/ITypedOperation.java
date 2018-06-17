@@ -6,7 +6,7 @@ import com.github.dependencymonitoring.terraform.core.exceptions.OperationExcept
  * Base class for controllers with a generic return type.
  * @param <T> - Return type that will be returned.
  *
- * @author  <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  *
  */
 public interface ITypedOperation<T> {

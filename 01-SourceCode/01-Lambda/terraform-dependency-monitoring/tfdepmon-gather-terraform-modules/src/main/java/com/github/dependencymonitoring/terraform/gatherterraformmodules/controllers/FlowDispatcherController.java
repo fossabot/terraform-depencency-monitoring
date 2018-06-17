@@ -9,7 +9,7 @@ import com.github.dependencymonitoring.terraform.core.exceptions.ControllerExcep
 import com.github.dependencymonitoring.terraform.core.operations.parse.beans.LambdaPayload;
 
 /**
- * @author <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  */
 @AllArgsConstructor(access = AccessLevel.PUBLIC)
 public class FlowDispatcherController extends TypedBaseController<ArrayNode> {

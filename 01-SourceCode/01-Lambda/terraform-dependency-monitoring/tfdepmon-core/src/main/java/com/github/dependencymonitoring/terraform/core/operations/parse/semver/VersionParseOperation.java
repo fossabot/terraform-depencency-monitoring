@@ -12,9 +12,9 @@ import static com.github.dependencymonitoring.terraform.core.utils.ICoreConstant
 
 
 /**
- * Class that represents the o
- * @author  <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * Class that represents the operation to parse SEMVER Strings.
  *
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  */
 @AllArgsConstructor
 public class VersionParseOperation implements ITypedOperation<Version> {

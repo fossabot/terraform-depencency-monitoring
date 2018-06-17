@@ -6,7 +6,7 @@ import java.io.IOException;
  * Class that represents the exception thrown during the operation
  * layer of the application
  *
- * @author  <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  */
 public class OperationException extends IOException{
 

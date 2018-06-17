@@ -20,6 +20,9 @@ import java.util.List;
 
 import static com.github.dependencymonitoring.terraform.core.utils.ICoreConstants.LOGICAL_LOCK_S3_INTERVAL_IN_MIN;
 
+/**
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
+ */
 class MessageSchedulerController extends BaseController {
 
     private String bucketName;

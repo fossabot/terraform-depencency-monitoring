@@ -11,17 +11,39 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Amazon Simple Queue Service base implementation
+ *
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
+ */
 public class SQSService {
 
+    /**
+     * singleton instance variable
+     */
     private static SQSService instance;
+    /**
+     * Amazon SQS client instance variable
+     */
     private AmazonSQS sqs;
+    /**
+     * Local Queue Name x Url cache
+     */
     private Map<String, String> queueNameMap;
 
+    /**
+     * Default constructor
+     */
     private SQSService() {
         this.sqs = AmazonSQSClientBuilder.defaultClient();
         this.queueNameMap = new HashMap<>();
     }
 
+    /**
+     * Obtains a singleton instance of the service
+     *
+     * @return - SQSService instance
+     */
     public static SQSService getInstance() {
         if (instance == null)
             instance = new SQSService();

@@ -11,7 +11,7 @@ import java.util.List;
  * Class the represents the Lambda payload passed to the worker-dispatcher and
  * worker lambda functions
  *
- * @author <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  */
 @NoArgsConstructor
 @ToString

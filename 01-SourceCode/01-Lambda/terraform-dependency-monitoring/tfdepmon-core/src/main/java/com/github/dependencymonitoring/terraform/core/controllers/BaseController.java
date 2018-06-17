@@ -5,7 +5,7 @@ import com.github.dependencymonitoring.terraform.core.exceptions.ControllerExcep
 /**
  * Base class for controllers with no return type
  *
- * @author  <a href="mailto:paulo.almeida@soltius.co.nz">Paulo Miguel Almeida</a>
+ * @author <a href="mailto:paulo.miguel.almeida.rodenas@gmail.com">Paulo Miguel Almeida</a>
  */
 public abstract class BaseController extends AbstractController{
     /**
